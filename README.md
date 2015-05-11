@@ -7,3 +7,8 @@ I will work for you, for **free**.
 ***
 
 # [New application!](https://github.com/ViperRage/Dev-Help/issues/new "Remember to use this format!")
+
+
+***
+
+# [Back](https://github.com/ViperRage/)
